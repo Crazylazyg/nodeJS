@@ -1,5 +1,4 @@
 let environments = {};
-
 // Staging (default) environment
 environments.staging = {
   'httpPort' : 3000,
